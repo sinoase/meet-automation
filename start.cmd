@@ -1,2 +1,2 @@
 
-python C:/[your path]/link.pyw
+python open.pyw
